@@ -1,2 +1,2 @@
 # DogBreeding-App
-visual studio (C#) project
+visual studio (C#) desktop application project
